@@ -1,6 +1,7 @@
 
 
-A curated list of Easy machine learning frameworks, libraries and software (by language). 
+# A curated list of Easy machine learning frameworks, libraries and software (by language). 
+
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@praveen1664](https://www.justadvancetechnology.com/).
 Also, a listed repository should be deprecated if:
