@@ -9,7 +9,7 @@ Also, a listed repository should be deprecated if:
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
 
-Further resources:
+## Further resources:
 
 * For a list of free machine learning books available for download, go [here](https://github.com/praveen1664/easy-machine-learning/blob/master/books.md).
 
